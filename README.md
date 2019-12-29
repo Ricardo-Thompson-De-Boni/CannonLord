@@ -1,7 +1,7 @@
 # CannonLord
 Game 2D
 
-1. Para executar o jogo, deve-se executar o arquivo Cannolord.exe juntos dos outros arquivos que se encontram na pasta CannonLord.
+1. Para executar o jogo, deve-se executar o arquivo Cannolord.exe juntos dos outros arquivos que se encontram na pasta CannonLord. Ao executar, se abrira uma pequena janela, antes de clicar no Play, colocar a Screen em 1920 x 1080. 
 
 2. A pasta CannonLord possui o executavel do jogo e os outros arquivos.
 
