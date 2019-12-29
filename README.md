@@ -3,7 +3,7 @@ Game 2D
 
 1. A pasta Cannonlord possui todo o código fonte do jogo. O arquino do executavel no link do one drive, possui um arquivo README sobre como executar o jogo... https://1drv.ms/u/s!Ah4Q-vF_ROSljm7bv2C2PolZdtub?e=x7Wx8w
 
-2. O código e projeto foram organizados de forma hierárquica(de acoedo com que o projeto foi sendo feito) e alfabetica(para uma maior organização).
+2. O código e projeto foram organizados de forma hierárquica(de acordo com que o projeto foi sendo feito) e alfabetica(para uma maior organização).
 
 3. Em geral, o jogo é basicamente o mesmo, apenas com assets diferentes. Foi adicionado:
 - Mais tipos de inimigos. Levou em torno de 1 hora, já que foi basicamente mudar o sprite e a movimentação do inimigo base;
