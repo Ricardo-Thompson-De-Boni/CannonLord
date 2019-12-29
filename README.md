@@ -1,9 +1,9 @@
 # CannonLord
 Game 2D
 
-1. Para executar o jogo, deve-se executar o arquivo Cannolord.exe juntos dos outros arquivos que se encontram na pasta CannonLord. Ao executar, se abrira uma pequena janela, antes de clicar no Play, colocar a Screen em 1920 x 1080. 
+1. A pasta Cannonlord possui todo o código fonte do jogo. O arquino do executavel no link do one drive, possui um arquivo README sobre como executar o jogo... https://1drv.ms/u/s!Ah4Q-vF_ROSljm7bv2C2PolZdtub?e=x7Wx8w
 
-2. A pasta CannonLord possui o executavel do jogo e os outros arquivos.
+2. O código e projeto foram organizados de forma hierárquica(de acoedo com que o projeto foi sendo feito) e alfabetica(para uma maior organização).
 
 3. Em geral, o jogo é basicamente o mesmo, apenas com assets diferentes. Foi adicionado:
 - Mais tipos de inimigos. Levou em torno de 1 hora, já que foi basicamente mudar o sprite e a movimentação do inimigo base;
